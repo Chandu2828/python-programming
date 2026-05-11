@@ -5,7 +5,7 @@
 3. Loops
 4. Functions
 
-Datatypes
+# Datatypes
 
 - Integer: E.g. 1,2,3,4 etc
 - Float: E.g. 1.2,2.0,3.5 etc
@@ -16,7 +16,7 @@ Datatypes
 - Set
 - Dict
 
-Arthiematic operations
+# Arthiematic operations
 
 - +: Addition
 - -: Subtraction
@@ -26,7 +26,7 @@ Arthiematic operations
 - %: Modulo Operator
 - **: Power or exponent
 
-Variable Naming Rules:
+# Variable Naming Rules:
 
 1. Names can not start with a number. E.g. 1abc
 2. There can be no spaces in the name, use _ instead. E.g. abc def (Not Valid), abc_def (Valid)
