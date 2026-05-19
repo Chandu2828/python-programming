@@ -4,11 +4,10 @@ b = 2
 total = a + b
 diff = a - b
 mul = a * b
-div = a / b
+div = a / b 
 # Return quotient
-floor_div = a//b
-# Return remainder
-mod_div = a % b
+floor_div = a//b 
+mod_div = a % b # Return remainder
 power = a ** b
 
 print(total)
@@ -21,6 +20,7 @@ print(power)
 
 # Order of operations: BODMAS or DMAS
 ans = ((2 + 10) * 10) + 3
+
 print (ans)
 
 a = 10
@@ -28,7 +28,7 @@ print ("a:", a)
 
 a = a + 10
 a += 10
-a -= 5
+a -= 5 
 a *= 10
 a //= 2
 a %= 5
