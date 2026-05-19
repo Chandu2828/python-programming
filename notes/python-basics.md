@@ -28,9 +28,9 @@
 
 # Variable Naming Rules:
 
-1. Names can not start with a number but can have number afterwards. E.g. 1abc
-2. There can be no spaces in the name, use `_` instead. E.g. abc def (Not Valid), abc_def (Valid)
-3. Can't use any of these symbols :'",<>/?|()!@#$%^&*~-+ except `_` For e.g `_abc`
+1. A variable name can include uppercase and lowercase letters, digits, and an underscore. Names can not start with a number but can have number afterwards. E.g. 1abc
+2. It must begin with a letter or an underscore. There can be no spaces in the name, use `_` instead. E.g. abc def (Not Valid), abc_def (Valid)
+3. Python is case-sensitive; for instance, costOfApple and CostOfApple represent two different variables. Can't use any of these symbols :'",<>/?|()!@#$%^&*~-+ except `_` For e.g `_abc`
 4. It's considered best practice (PEP8) that names are lowercase.
 5. Avoid using the characters 'l', 'O', or 'I' as single character variable names.
 6. Avoid using words that have special meaning in Python like "list" and "str" as they are [reserved keywords](https://docs.python.org/3/reference/lexical_analysis.html#keywords) 
