@@ -109,11 +109,11 @@
 # for ele1, ele2 in zip(list1, list2):
 #     print(ele1, ele2)
 
-sample_list = [10, 10, 20, 30, 5, 80, 90]
-element_to_search = 35
+# sample_list = [10, 10, 20, 30, 5, 80, 90]
+# element_to_search = 35
 
-if element_to_search not in sample_list:
-    print("Element not found")
-else:
-    print("Element found")
+# if element_to_search not in sample_list:
+#     print("Element not found")
+# else:
+#     print("Element found")
 
